@@ -1,0 +1,9 @@
+COMMONS-MATH3-3.6.1.JAR - FOR ADDITION:[C:\1XstoreOlderVersions\Xstore6.5\xst_pos\launchers\Xstore (XST).launch]
+ 
+COMMONS-CODEC-1.4.JAR FOR REMOVAL:[C:\1XstoreOlderVersions\Xstore6.5\xst_pos\launchers\Xstore (XST).launch]
+ 
+COMMONS-MATH3-3.6.1.JAR - FOR ADDITION:[C:\1XstoreOlderVersions\Xstore6.5\xst_pos\launchers\Xstore (XST).launch]
+ 
+COMMONS-CODEC-1.4.JAR FOR REMOVAL:[C:\1XstoreOlderVersions\Xstore6.5\xst_pos\launchers\Xstore (XST).launch]
+ 
+SPRING-CONTEXT-SUPPORT-4.3.19.RELEASE.JAR - FOR ADDITION:[C:\1XstoreOlderVersions\Xstore7.0\xst_pos\launchers\XstoreM DEMO.launch]
